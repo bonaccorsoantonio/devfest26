@@ -21,11 +21,13 @@ func simulate(money, wire int64, operations []Operation) map[string]int64 {
 				wire += quantity
 			}
 		case "make":
-			if wire >= quantity {
+			if quantity > 0 && wire >= quantity {
+				wire -= quantity
 				clips += quantity
 			}
 		case "sell":
-			if clips >= quantity {
+			if quantity > 0 && clips >= quantity {
+				clips -= quantity
 				money += 2 * quantity
 			}
 		}
