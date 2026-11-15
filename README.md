@@ -1,3 +1,6 @@
+# In questo fork sono stati corretti i files
+
+
 # DevFest Catania 2026
 
 Ciao! Benvenuto alla code challenge della DevFest Catania 2026!
