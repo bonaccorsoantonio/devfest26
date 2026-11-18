@@ -1,6 +1,11 @@
 # Il mio fork
 
 Contiene i files già corretti come previsto dal sottostante contest. Per lanciare sul vostro host il file binario occorre che la vostra distribuzione abbia già installate le dipendenze necessarie.
+Per quel che vale sono stato il primo a risolvere il contest. In base a quanto previsto dal regolamento per velocizzare i tempi ho usato ChatGPT per la correzione dei files. Infine sempre con ChatGPT ho verificato le dipendenze richieste dal binario e le ho installate sul mio client (Debian) prima di avviare il binario.
+
+Tra gli argomenti trattati durante le conferenze ovviamente l'impiego delle IA per la correzione e la creazione dei programmi (o applicazioni).
+
+Come premio ho vinto una delle spillette del devfest del 2025 rimaste.
 
 Antonio Bonaccorso - littlephoenix85 🐦‍🔥
 
