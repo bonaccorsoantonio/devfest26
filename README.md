@@ -1,5 +1,8 @@
-# In questo fork sono stati corretti i files
+# Il mio fork
 
+Contiene i files già corretti come previsto dal sottostante contest. Per lanciare sul vostro host il file binario occorre che la vostra distribuzione abbia già installate le dipendenze necessarie.
+
+Antonio Bonaccorso - littlephoenix85 🐦‍🔥
 
 # DevFest Catania 2026
 
